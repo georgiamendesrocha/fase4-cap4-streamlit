@@ -102,7 +102,7 @@ A aplicação foi publicada no Streamlit Cloud a partir do repositório GitHub, 
 
 Link da aplicação publicada:
 
-https://fase4-cap4-fiap.streamlit.app
+https://fase4-cap4-fiap-georgia.streamlit.app/
 
 ## Observação acadêmica
 
